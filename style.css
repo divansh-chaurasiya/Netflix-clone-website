@@ -169,12 +169,10 @@ section.first>div :nth-child(1) {
     font-weight: bolder;
 }
 
-
 section.first>div :nth-child(2) {
     font-size: 24px;
 
 }
-
 
 .faq h2 {
     text-align: center;
@@ -227,10 +225,9 @@ footer .questions {
 }
 
 
-
 @media screen and (max-width: 1300px) {
 
-    nav{
+    nav {
         max-width: 90vw;
     }
 
@@ -276,13 +273,12 @@ footer .questions {
         padding: 75px 0;
     }
 
-    .footer-item{
+    .footer-item {
         align-items: center;
     }
- 
+
 
 }
-
 
 
 @media screen and (max-width: 1300px) {
@@ -293,7 +289,6 @@ footer .questions {
         gap: 25px;
     }
 }
-
 
 .footer a {
     font-size: 14px;
